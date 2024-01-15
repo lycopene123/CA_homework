@@ -1,0 +1,15 @@
+NAME=410.bwaves-2097B
+TRACE=$(PYTHIA_HOME)/traces/410.bwaves-2097B.champsimtrace.xz
+KNOBS=
+
+NAME=429.mcf-22B
+TRACE=$(PYTHIA_HOME)/traces/429.mcf-22B.champsimtrace.xz
+KNOBS=
+
+NAME=403.gcc-16B
+TRACE=$(PYTHIA_HOME)/traces/403.gcc-16B.champsimtrace.xz
+KNOBS=
+
+NAME=410.bwaves-1963B
+TRACE=$(PYTHIA_HOME)/traces/410.bwaves-1963B.champsimtrace.xz
+KNOBS=
